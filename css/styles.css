@@ -390,9 +390,9 @@ fill: var(--activecolor);
     justify-content: center;
     width: 44px;
     height: 44px;
-    transition: border-color var(--duration) var(--timing-function);
+    transition: background-color var(--duration) var(--timing-function);
   }
-
+  
 /* ================================== */
 .footer-join {
   margin-left: 70px;
